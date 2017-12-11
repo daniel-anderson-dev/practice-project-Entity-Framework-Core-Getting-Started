@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiApp.Data", "SamuraiApp.Data\SamuraiApp.Data.csproj", "{710F2F9F-FC84-4970-9FA1-7D283F5E847D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BC644742-CAC9-4DD6-A0FD-6267D7DE46E0} = {BC644742-CAC9-4DD6-A0FD-6267D7DE46E0}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiApp.Domain", "SamuraiApp.Domain\SamuraiApp.Domain.csproj", "{BC644742-CAC9-4DD6-A0FD-6267D7DE46E0}"
 EndProject
