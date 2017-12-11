@@ -1,0 +1,12 @@
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.pdb
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csprojResolveAssemblyReference.cache
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.pdb
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.pdb
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csprojResolveAssemblyReference.cache
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.pdb

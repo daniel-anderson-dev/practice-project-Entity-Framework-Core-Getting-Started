@@ -1,0 +1,150 @@
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\SamuraiApp.Data.dll.config
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\SamuraiApp.Data.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\SamuraiApp.Data.pdb
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Logging.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Options.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Win32.Primitives.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Remotion.Linq.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\SamuraiApp.Domain.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.AppContext.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Collections.Immutable.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Console.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Globalization.Calendars.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Interactive.Async.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.IO.Compression.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.IO.Compression.ZipFile.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.IO.FileSystem.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.IO.FileSystem.Primitives.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Net.Http.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Net.Sockets.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Security.Cryptography.Algorithms.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Security.Cryptography.Encoding.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Security.Cryptography.Primitives.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Text.Encodings.Web.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Xml.ReaderWriter.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\SamuraiApp.Domain.pdb
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Logging.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Options.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\Remotion.Linq.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Collections.Immutable.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Interactive.Async.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\bin\Debug\System.Text.Encodings.Web.xml
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.csprojResolveAssemblyReference.cache
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.dll
+\\SAMMY\People\andersond\entity-framework-core-getting-started\m3-exercise-files\SamuraiAppAfter\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.pdb
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\SamuraiApp.Data.dll.config
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\SamuraiApp.Data.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\SamuraiApp.Data.pdb
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Options.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Remotion.Linq.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\SamuraiApp.Domain.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.AppContext.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Collections.Immutable.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Console.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Globalization.Calendars.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Interactive.Async.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.IO.Compression.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.IO.FileSystem.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Net.Http.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Net.Sockets.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Text.Encodings.Web.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Xml.ReaderWriter.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\SamuraiApp.Domain.pdb
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Options.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\Remotion.Linq.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Collections.Immutable.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Interactive.Async.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\bin\Debug\System.Text.Encodings.Web.xml
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.csprojResolveAssemblyReference.cache
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.dll
+C:\source_code\_PracticeDev\Entity Framework Core Getting Started\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.pdb
