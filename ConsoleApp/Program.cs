@@ -1,8 +1,7 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.Extensions.Logging;
-using SamuraiApp.Data;
+﻿using SamuraiApp.Data;
 using SamuraiApp.Domain;
+using System;
+using System.Linq;
 
 namespace ConsoleApp
 {
@@ -10,8 +9,21 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            InsertSamurai();
-            InsertMultipleSamurais();
+            //InsertSamurai();
+            //InsertMultipleSamurais();
+            SimpleSamuraiQuery();
+        }
+
+        private static void SimpleSamuraiQuery()
+        {
+            using (var context = new SamuraiContext())
+            {
+                var samurais = context.Samurais.ToList();
+                foreach (var item in samurais)
+                {
+                    Console.WriteLine(item.Name);
+                }
+            }
         }
 
         private static void InsertMultipleSamurais()
